@@ -16666,7 +16666,7 @@ $S:161}
 Y.HV.prototype={
 $1:function(a){H.S(a)
 if(a==="About")this.a.vp("Partition Storage Algorithm DEMO\nFlutter_web\nMIT License")
-else if(a==="Github")this.a.vq("https://github.com/leyuuu1/Netlifypage","View SourceCode on Github")},
+else if(a==="Tips")this.a.vq("\u53f3\u4e0b+\u6309\u94ae\u5206\u914d\u65b0\u7a7a\u95f4,\u53f3\u6ed1\u65b9\u5757\u6d88\u9664\u5df2\u5206\u914d\u7a7a\u95f4.","\u64cd\u4f5c\u63d0\u793a")},
 $S:54}
 Y.HW.prototype={
 $1:function(a){var u=null,t=H.a(a,"$icr").a,s=this.a.x
@@ -16706,7 +16706,7 @@ Y.HY.prototype={
 $0:function(){this.a.kg()},
 $S:1}
 Y.pf.prototype={
-ax:function(){return new Y.HI(new N.bh(null,[M.is]),D.Th(),H.i(["Github","About"],[P.n]),C.q)}}
+ax:function(){return new Y.HI(new N.bh(null,[M.is]),D.Th(),H.i(["Tips","About"],[P.n]),C.q)}}
 F.At.prototype={
 K:function(a){var u=null
 return new S.lH(new Y.pf(u),"Flutter Demo",X.F5(u,u,u,u,C.ds,u),u)}}
